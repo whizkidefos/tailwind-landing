@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:tailwindcss": "tailwind build src/main.css -o public/app.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.0.22"
+  }
+}
